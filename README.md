@@ -74,6 +74,7 @@ Tools and platforms for applying machine learning to agricultural data.
 Tools for turning data into actionable agricultural insights.
 
 - [Cropio](https://cropio.com/) — Platform for crop monitoring and yield prediction.
+- [Direct Beef Tools](https://github.com/cmhenry79/direct-beef-tools) — Browser-only break-even calculator and CSV for comparing alternative cattle-sale value with direct-market beef costs and target returns.
 - [Taranis](https://taranis.ag/) — AI-powered agronomic intelligence platform.
 - [Farmers Edge](https://farmersedge.ca/) — Data-driven agriculture platform for precision farming.
 - [Prospera](https://www.prospera.ag/) — AI-based crop monitoring and analytics platform.
