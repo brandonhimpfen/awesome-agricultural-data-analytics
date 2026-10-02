@@ -76,6 +76,7 @@ Tools and platforms for applying machine learning to agricultural data.
 
 Tools for turning data into actionable agricultural insights.
 
+- [Agricalc](https://agricalc.online/) — Free science-based agriculture calculators covering planting, fertilization, irrigation, harvest, and marketing; works offline as a PWA
 - [Cropio](https://cropio.com/) — Platform for crop monitoring and yield prediction.
 - [Taranis](https://taranis.ag/) — AI-powered agronomic intelligence platform.
 - [Farmers Edge](https://farmersedge.ca/) — Data-driven agriculture platform for precision farming.
